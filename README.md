@@ -11,3 +11,7 @@ MENU
 2. Mutton Biryani
 3. Crispy Prawns
 4. Tandoori chicken
+
+* Tank Bund
+* begumpet
+* Secunderabad
