@@ -15,3 +15,5 @@ MENU
 * Tank Bund
 * begumpet
 * Secunderabad
+
+[mymedia](https://github.com/ROCKYNWMSU/from-karadi/blob/main/MyMedia.md)
