@@ -39,12 +39,12 @@ In this section I would recommend four songs.Each suggestion is accompanied by a
 -----
 # code fencing 
 -----
-```
 TypeScript debounce example
 Tags: typescript, debounce
 
 Delays invoking a provided function at least since specified milliseconds have elapsed.
 
+```
 const debounce = (fn: Function, ms = 300) => {
 	let timeoutId: ReturnType;
   return function (this: any, ...args: any[]) {
@@ -52,10 +52,11 @@ const debounce = (fn: Function, ms = 300) => {
     timeoutId = setTimeout(() => fn.apply(this, args), ms);
   };
 };
+```
 Related links:
 
 How to delay a function in JavaScript - Debounce example
 TypeScript Debounce function - troubleshooting.
 
-```
+
 [fencing](https://code.pieces.app/collections/typescript)
