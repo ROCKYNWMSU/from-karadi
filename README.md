@@ -29,3 +29,10 @@ In this section I would recommend four songs.Each suggestion is accompanied by a
 | Badtameez Dil |A lively and peppy song thats perfect for a fun and energitic mood | Benny Dayal|
 | Kar Har Maidaan Fateh | A motivational and powerful track that can uplift your spirits|Sukhwinder singh |
 | Raabta |This romantic song features a beautiful blend of melody  and soothing vocals |Arjit Singh |
+
+# Favorite Quotes
+> *" The most important thing is to try and inspire people so that they can be great in what ever they want to do "*
+> \- ***Kobe Bryant***
+
+> *" Don't count the days,make the days count."*
+> \- ***Muhammad Ali***
